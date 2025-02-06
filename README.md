@@ -1,2 +1,2 @@
-# Capstone_2022
-# This is in preparation toward the Data Science Capstone Project (2022)
+# Capstone_Applied Data Science
+# This is in preparation toward the Applied Data Science Capstone Project
